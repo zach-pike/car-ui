@@ -1,0 +1,15 @@
+.SidebarIcon {
+  border-radius: 13px;
+
+  background-color: lightgreen;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  aspect-ratio: 1/1;
+
+  cursor: pointer;
+
+  box-shadow: 2px 2px 9px rgb(41, 41, 41);
+}
